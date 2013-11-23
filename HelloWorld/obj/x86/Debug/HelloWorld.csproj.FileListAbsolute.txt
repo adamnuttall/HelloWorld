@@ -1,5 +1,5 @@
-c:\users\adam\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\users\adam\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
-c:\users\adam\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
-c:\users\adam\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
-c:\users\adam\documents\visual studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Users\Adam\Documents\Visual Studio 2010\Projects\HelloWorld\HelloWorld\obj\x86\Debug\HelloWorld.pdb
